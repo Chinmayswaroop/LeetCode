@@ -11,3 +11,6 @@ Contains all my Leetcode solutions with Question, Solution, Time and Space compl
 | 116 | Populating Next Right Pointers in Each Node | Medium |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium |
 | 160 | Intersection of Two Linked Lists| Easy |
+| 300 | Longest Increasing Subsequence | Medium |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium |
+| 198 | House Robber | Easy |
