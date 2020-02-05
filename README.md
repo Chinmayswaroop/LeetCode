@@ -14,3 +14,7 @@ Contains all my Leetcode solutions with Question, Solution, Time and Space compl
 | 300 | Longest Increasing Subsequence | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium |
 | 198 | House Robber | Easy |
+
+# License
+
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
