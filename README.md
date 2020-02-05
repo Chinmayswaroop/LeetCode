@@ -14,6 +14,13 @@ Contains all my Leetcode solutions with Question, Solution, Time and Space compl
 | 300 | Longest Increasing Subsequence | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium |
 | 198 | House Robber | Easy |
+| 746 | Min Cost Climbing Stairs | Easy |
+| 64 | Minimum Path Sum | Medium |
+| 322 | Coin Change | Medium |
+| 983 | Minimum Cost For Tickets | Medium |
+| 279 | Perfect Squares | Medium |
+
+
 
 # License
 
