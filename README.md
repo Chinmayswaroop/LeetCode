@@ -1,5 +1,5 @@
 # LeetCode
-Contains all my Leetcode solutions with Question, Solution, Time and Space complexity analaysis.
+Contains all my Leetcode solutions with Problem statement, their Solutions, Time and Space complexity analaysis.
 
 | # | Title | Difficulty |
 | --- | --- | --- |
