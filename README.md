@@ -1,7 +1,7 @@
 # LeetCode
 Contains all my Leetcode solutions with Problem statement, their Solutions, Time and Space complexity analaysis.
 
-# Dynamic Progeramming 
+# Dynamic Programming 
 | # | Title | Difficulty | 
 | --- | --- | --- |
 | 198 | House Robber | Easy |
@@ -26,12 +26,14 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- |
 | 238 | Product of Array Except Self | Medium |
 
+# Linked-List
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 160 | Intersection of Two Linked Lists| Easy |
+
 # Heap
 | # | Title | Difficulty |
 | --- | --- | --- |
-
-# Linked-List
-| 160 | Intersection of Two Linked Lists| Easy |
 
 # Others
 | # | Title | Difficulty |
