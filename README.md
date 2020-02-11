@@ -12,6 +12,10 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 983 | Minimum Cost For Tickets | Medium |
 | 279 | Perfect Squares | Medium |
 | 300 | Longest Increasing Subsequence | Medium |
+| 62 | Climbing Stairs | Easy |
+| 70 | Unique Paths | Easy |
+
+
 
 # Tree
 | # | Title | Difficulty |
