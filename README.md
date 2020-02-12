@@ -13,7 +13,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 279 | Perfect Squares | Medium |
 | 300 | Longest Increasing Subsequence | Medium |
 | 62 | Climbing Stairs | Easy |
-| 70 | Unique Paths | Easy |
+| 70 | Unique Paths | Medium |
 
 
 
