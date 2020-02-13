@@ -16,7 +16,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 70 | Unique Paths | Medium |
 
 
-
 # Tree
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -24,6 +23,14 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium |
 | 230 | Kth Smallest Element in a BST | Medium |
 | 116 | Populating Next Right Pointers in Each Node | Medium |
+
+# Graph
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 200 | Number of Islands | Medium |
+| 695 | Max Area of Island | Medium |
+| 130 | Surrounded Regions | Medium |
+
 
 # Array
 | # | Title | Difficulty |
@@ -38,6 +45,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 # Heap
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 1046 | Last Stone Weight | Easy |
+
 
 # Others
 | # | Title | Difficulty |
