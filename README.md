@@ -14,6 +14,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 300 | Longest Increasing Subsequence | Medium |
 | 62 | Climbing Stairs | Easy |
 | 70 | Unique Paths | Medium |
+| 63 | Unique Paths II | Medium |
+| 673 | Number of Longest Increasing Subsequence | Medium |
 
 
 # Tree
