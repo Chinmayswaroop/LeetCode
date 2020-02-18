@@ -19,40 +19,44 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 
 
 # Tree
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium |
 | 230 | Kth Smallest Element in a BST | Medium |
 | 116 | Populating Next Right Pointers in Each Node | Medium |
 
 # Graph
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 200 | Number of Islands | Medium |
 | 695 | Max Area of Island | Medium |
 | 130 | Surrounded Regions | Medium |
 
 
 # Array
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 238 | Product of Array Except Self | Medium |
 
 # Linked-List
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 160 | Intersection of Two Linked Lists| Easy |
 
 # Heap
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 1046 | Last Stone Weight | Easy |
 
+# String
+| # | Title | Difficulty | Remarks | Remarks |
+| --- | --- | --- | --- |
+| 443 | String Compression | Easy | How the Last index condition is included.
 
 # Others
-| # | Title | Difficulty |
-| --- | --- | --- |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 463 | Island Perimeter | Easy |
 | 844 | Backspace String Compare | Easy |
 
