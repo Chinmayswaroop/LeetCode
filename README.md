@@ -2,20 +2,20 @@
 Contains all my Leetcode solutions with Problem statement, their Solutions, Time and Space complexity analaysis.
 
 # Dynamic Programming 
-| # | Title | Difficulty | 
-| --- | --- | --- |
-| 198 | House Robber | Easy |
-| 746 | Min Cost Climbing Stairs | Easy |
-| 120 | Triangle | Medium |
-| 64 | Minimum Path Sum | Medium |
-| 322 | Coin Change | Medium |
-| 983 | Minimum Cost For Tickets | Medium |
-| 279 | Perfect Squares | Medium |
-| 300 | Longest Increasing Subsequence | Medium |
-| 62 | Climbing Stairs | Easy |
-| 70 | Unique Paths | Medium |
-| 63 | Unique Paths II | Medium |
-| 673 | Number of Longest Increasing Subsequence | Medium |
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 198 | House Robber | Easy | None |
+| 746 | Min Cost Climbing Stairs | Easy | None |
+| 120 | Triangle | Medium | None |
+| 64 | Minimum Path Sum | Medium | None |
+| 322 | Coin Change | Medium | None |
+| 983 | Minimum Cost For Tickets | Medium | None |
+| 279 | Perfect Squares | Medium | None |
+| 300 | Longest Increasing Subsequence | Medium | None |
+| 62 | Climbing Stairs | Easy | None |
+| 70 | Unique Paths | Medium | None |
+| 63 | Unique Paths II | Medium | None |
+| 673 | Number of Longest Increasing Subsequence | Medium | None |
 
 
 # Tree
@@ -50,7 +50,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 1046 | Last Stone Weight | Easy | None |
 
 # String
-| # | Title | Difficulty | Remarks | Remarks |
+| # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 443 | String Compression | Easy | How the Last index condition is included. |
 
