@@ -16,7 +16,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 70 | Unique Paths | Medium | None |
 | 63 | Unique Paths II | Medium | None |
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
-| 743 | Network Delay Time | Medium | Maintaining min heap space |
 
 
 # Tree
@@ -26,6 +25,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | None |
 | 230 | Kth Smallest Element in a BST | Medium | None |
 | 116 | Populating Next Right Pointers in Each Node | Medium | None |
+| 111 | Minimum Depth of Binary Tree | Easy | None |
 
 # Graph
 | # | Title | Difficulty | Remarks |
@@ -33,6 +33,9 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 200 | Number of Islands | Medium | None |
 | 695 | Max Area of Island | Medium | None |
 | 130 | Surrounded Regions | Medium | None |
+| 743 | Network Delay Time | Medium | Maintaining min heap space |
+| 787 | Cheapest Flights Within K Stops | Medium | Time Complexity left |
+| 909 | Snakes and Ladders | Medium | Important |
 
 
 # Array
