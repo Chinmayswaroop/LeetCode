@@ -18,14 +18,11 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
 
 
-# Tree
+# Design
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | None |
-| 103 | Binary Tree Zigzag Level Order Traversal | Medium | None |
-| 230 | Kth Smallest Element in a BST | Medium | None |
-| 116 | Populating Next Right Pointers in Each Node | Medium | None |
-| 111 | Minimum Depth of Binary Tree | Easy | None |
+| 146 | LRU Cache | Medium | Important for interviews |
+
 
 # Graph
 | # | Title | Difficulty | Remarks |
@@ -36,7 +33,21 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 743 | Network Delay Time | Medium | Maintaining min heap space |
 | 787 | Cheapest Flights Within K Stops | Medium | Time Complexity left |
 | 909 | Snakes and Ladders | Medium | Important |
+| 785 | Is Graph Bipartite? | Medium | Time Complexity left |
+| 886 | Possible Bipartition | Medium | Time Complexity left |
+| 207 | Course Schedule | Medium | Time Complexity left |
+| 210 | Course Schedule II | Medium | Time Complexity left |
+| 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
 
+
+# Tree
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | None |
+| 103 | Binary Tree Zigzag Level Order Traversal | Medium | None |
+| 230 | Kth Smallest Element in a BST | Medium | None |
+| 116 | Populating Next Right Pointers in Each Node | Medium | None |
+| 111 | Minimum Depth of Binary Tree | Easy | None |
 
 # Array
 | # | Title | Difficulty | Remarks |
