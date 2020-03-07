@@ -38,7 +38,10 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 207 | Course Schedule | Medium | Time Complexity left |
 | 210 | Course Schedule II | Medium | Time Complexity left |
 | 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
+| 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
+| 684 | Redundant Connection | Medium | Time Complexity left |
 
+ 
 
 # Tree
 | # | Title | Difficulty | Remarks |
@@ -48,6 +51,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 230 | Kth Smallest Element in a BST | Medium | None |
 | 116 | Populating Next Right Pointers in Each Node | Medium | None |
 | 111 | Minimum Depth of Binary Tree | Easy | None |
+| 112 | Path Sum | Easy | BFS and DFS |
+
 
 # Array
 | # | Title | Difficulty | Remarks |

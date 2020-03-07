@@ -26,3 +26,92 @@ Time Complexity :: O(n)
 Space Complexity :: O(n)
 */
 
+/* BFS solution which takes care that graph is DAG or not */
+class Solution {
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        
+        int [] inDegree = new int[numCourses];
+        Map<Integer, List<Integer>> adjL = new HashMap<>();
+        
+        for(int [] temp : prerequisites){
+            /* if vertex is u->v then temp[1] = u and temp[0] = v */
+           adjL.putIfAbsent(temp[1], new ArrayList<>());
+           adjL.get(temp[1]).add(temp[0]);
+            inDegree[temp[0]]++;
+
+        }     
+        Queue<Integer> q = new LinkedList<>();
+        /* add all the nodes that have indegree = 0 */
+        
+        for(int i=0;i<inDegree.length;i++){
+            if(inDegree[i]==0)
+                q.add(i);
+        }
+
+        int [] order = new int[numCourses];
+        int visited=0;
+        
+        while(!q.isEmpty()){
+            int from = q.poll();
+            order[visited++]=from;
+            if(!adjL.containsKey(from))
+                continue;
+            
+            /* check for all its neighbours */
+            List<Integer> tempL = adjL.get(from);
+            for(int neighbour : tempL){
+                inDegree[neighbour]--;
+                if(inDegree[neighbour]==0){
+                    q.add(neighbour);
+                }      
+             }
+        }
+        return visited==numCourses ? order : new int[0] ;
+    }
+}
+
+/* This is the DFS solution from Tushar roys video. Its is not suitable to be used at all the places since it works when the 
+graph has no cycle */
+class Solution {
+    
+    public void DFS(int vertex, boolean [] visited, Map<Integer, List<Integer>> adjL, List<Integer> stack){
+        
+        if(!adjL.containsKey(vertex)){
+            stack.add(vertex);
+            return; 
+            /* this handles the case when the vertex has no nbhs from it */
+        }
+        for(int nbh : adjL.get(vertex)){
+            if(!visited[nbh]){
+                visited[nbh] = true;
+                DFS(nbh, visited, adjL, stack);
+            }
+        }
+        stack.add(vertex);
+        
+    }
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        Map<Integer, List<Integer>> adjL = new HashMap<>();
+        for(int [] temp : prerequisites){
+            /* if vertex is u->v then temp[1] = u and temp[0] = v */
+           adjL.putIfAbsent(temp[1], new ArrayList<>());
+           adjL.get(temp[1]).add(temp[0]);
+        }
+        
+        boolean [] visited = new boolean[numCourses];
+        List<Integer> stack = new ArrayList<>();        
+        for(int i=0;i<numCourses;i++){
+            if(!visited[i]){
+                visited[i]=true;
+                DFS(i, visited, adjL, stack);
+            }
+        }
+        int [] arr = {};
+        if(stack.size() == numCourses){
+            Collections.reverse(stack);
+            arr = stack.stream().mapToInt(i -> i).toArray();
+        }
+    return arr; 
+
+    }
+}
