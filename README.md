@@ -16,13 +16,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 70 | Unique Paths | Medium | None |
 | 63 | Unique Paths II | Medium | None |
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
-
-
-# Design
-| # | Title | Difficulty | Remarks |
-| --- | --- | --- | --- |
-| 146 | LRU Cache | Medium | Important for interviews |
-
+| 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
 
 # Graph
 | # | Title | Difficulty | Remarks |
@@ -39,10 +33,13 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 210 | Course Schedule II | Medium | Time Complexity left |
 | 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
 | 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
-| 684 | Redundant Connection | Medium | Time Complexity left |
+| 684 | Redundant Connection | Medium | Time Complexity left Kruskal Algorithm |
 
+# Design
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 146 | LRU Cache | Medium | Important for interviews |
  
-
 # Tree
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
@@ -52,7 +49,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 116 | Populating Next Right Pointers in Each Node | Medium | None |
 | 111 | Minimum Depth of Binary Tree | Easy | None |
 | 112 | Path Sum | Easy | BFS and DFS |
-
 
 # Array
 | # | Title | Difficulty | Remarks |
