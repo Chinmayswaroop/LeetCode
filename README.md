@@ -74,7 +74,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 463 | Island Perimeter | Easy |  None |
-| 844 | Backspace String Compare | Easy | None |
+| 844 | Backspace String Compare | Easy | Non |
 
 
 # License
