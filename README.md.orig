@@ -79,8 +79,12 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 463 | Island Perimeter | Easy |  None |
+<<<<<<< Updated upstream
+| 844 | Backspace String Compare | Easy | Non |
+=======
 | 844 | Backspace String Compare | Easy | None |
 | 7 | Reverse Integer | Easy | Math :: Forumula Important :: Overflow condition |
+>>>>>>> Stashed changes
 
 
 # License
