@@ -34,6 +34,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
 | 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
 | 684 | Redundant Connection | Medium | Time Complexity left Kruskal Algorithm |
+| 79 | Word Search | Medium | Teaches how to move in all directions of an element in a matrix. |
 
 # Design
 | # | Title | Difficulty | Remarks |
@@ -76,7 +77,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- | --- |
 | 160 | Intersection of Two Linked Lists| Easy | None |
 | 142 | Linked List Cycle II | Medium | None |
-| 160 | Intersection of Two Linked Lists| Medium | None |
+| 287 | Find the Duplicate Number | Medium | None |
 
 # Heap
 | # | Title | Difficulty | Remarks |
