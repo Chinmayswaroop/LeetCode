@@ -84,6 +84,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- | --- |
 | 1046 | Last Stone Weight | Easy | None |
 | 23 | Merge k Sorted Lists | Hard | None |
+| 621 |  Task Scheduler | Medium | Pre knowledge required for interviews. |
+
 
 # String
 | # | Title | Difficulty | Remarks |
