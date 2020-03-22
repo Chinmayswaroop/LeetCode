@@ -39,6 +39,9 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 146 | LRU Cache | Medium | Important for interviews |
+| 208 | Implement Trie (Prefix Tree) | Medium | Time complexity left |
+| 211 | Add and Search Word | Medium | Time complexity left |
+
  
 # Tree
 | # | Title | Difficulty | Remarks |
@@ -49,6 +52,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 116 | Populating Next Right Pointers in Each Node | Medium | None |
 | 111 | Minimum Depth of Binary Tree | Easy | None |
 | 112 | Path Sum | Easy | BFS and DFS |
+| 617 | Merge Two Binary Trees | Easy | Time Complexity left |
 
 # Array
 | # | Title | Difficulty | Remarks |
@@ -58,16 +62,27 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 1305 | All Elements in Two Binary Search Trees | Medium | Merger Logic :: Left-Can return list/or not  |
 | 560 | Subarray Sum Equals K | Medium | None |
 
+# Sorting and Searching
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Redo |
+| 33 | Search in Rotated Sorted Array | Medium | Redo |
+| 56 | Merge Intervals | Medium | None |
+| 986 | Interval List Intersections | Medium | Code is Poetry |
+
 
 # Linked-List
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 160 | Intersection of Two Linked Lists| Easy | None |
+| 142 | Linked List Cycle II | Medium | None |
+| 160 | Intersection of Two Linked Lists| Medium | None |
 
 # Heap
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 1046 | Last Stone Weight | Easy | None |
+| 23 | Merge k Sorted Lists | Hard | None |
 
 # String
 | # | Title | Difficulty | Remarks |
