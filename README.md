@@ -24,7 +24,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 200 | Number of Islands | Medium | None |
 | 695 | Max Area of Island | Medium | None |
 | 130 | Surrounded Regions | Medium | None |
-| 743 | Network Delay Time | Medium | Maintaining min heap space |
+| 743 | Network Delay Time | Medium | Done :: Dijkstra implementaion with min space utilisation|
 | 787 | Cheapest Flights Within K Stops | Medium | Time Complexity left |
 | 909 | Snakes and Ladders | Medium | Important |
 | 785 | Is Graph Bipartite? | Medium | Time Complexity left |
@@ -67,9 +67,12 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Redo |
-| 33 | Search in Rotated Sorted Array | Medium | Redo |
+| 33 | Search in Rotated Sorted Array | Medium | Done |
 | 56 | Merge Intervals | Medium | None |
 | 986 | Interval List Intersections | Medium | Code is Poetry |
+| 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE :: Concept |
+| 74 | Search a 2D Matrix | Medium | Done |
+
 
 
 # Linked-List
