@@ -29,8 +29,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 909 | Snakes and Ladders | Medium | Important |
 | 785 | Is Graph Bipartite? | Medium | Time Complexity left |
 | 886 | Possible Bipartition | Medium | Time Complexity left |
-| 207 | Course Schedule | Medium | Time Complexity left |
-| 210 | Course Schedule II | Medium | Time Complexity left |
+| 207 | Course Schedule | Medium | Done :: Reduced to cycle detection in graph |
+| 210 | Course Schedule II | Medium | Done |
 | 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
 | 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
 | 684 | Redundant Connection | Medium | Time Complexity left Kruskal Algorithm |

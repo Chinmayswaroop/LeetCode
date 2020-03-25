@@ -22,8 +22,8 @@ Explanation: There are a total of 4 courses to take. To take course 3 you should
 
 /*
 Analysis ::
-Time Complexity :: O(n)
-Space Complexity :: O(n)
+Time Complexity :: O(V+E)
+Space Complexity :: O(V)
 */
 
 /* BFS solution which takes care that graph is DAG or not */

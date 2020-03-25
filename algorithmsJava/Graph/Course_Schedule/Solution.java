@@ -21,8 +21,8 @@ Explanation: There are a total of 2 courses to take.
 
 /*
 Analysis ::
-Time Complexity :: O(n)
-Space Complexity :: O(n)
+Time Complexity :: O(V+E)
+Space Complexity :: O(V)
 */
 
 class Solution {
@@ -33,13 +33,8 @@ class Solution {
         
         for(int [] temp : prerequisites){
             /* if vertex is u->v then temp[1] = u and temp[0] = v */
-            if(adj.containsKey(temp[1])){
-                adj.get(temp[1]).add(temp[0]);
-            }else{
-                List<Integer> node = new ArrayList<>();
-                node.add(temp[0]);
-                adj.put(temp[1],node);
-            }
+            adj.putIfAbsent(temp[1],new ArrayList());
+            adj.get(temp[1]).add(temp[0]);
             inDegree[temp[0]]++;
 
         }     
@@ -55,6 +50,10 @@ class Solution {
         while(!q.isEmpty()){
             int top = q.poll();
             count++;
+            /* imp condition i.e if that node is not connected to any node that is 
+            disconnected component of that graph so prerequisites will not have it and
+            so will our adjacency list. Also if any node doesnot have any outgoing edges               
+            then also*/
             if(!adj.containsKey(top))
                 continue;
             /* check for all its neighbours */
