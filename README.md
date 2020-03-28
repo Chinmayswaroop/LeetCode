@@ -1,23 +1,6 @@
 # LeetCode
 Contains all my Leetcode solutions with Problem statement, their Solutions, Time and Space complexity analaysis.
 
-# Dynamic Programming 
-| # | Title | Difficulty | Remarks |
-| --- | --- | --- | --- |
-| 198 | House Robber | Easy | None |
-| 746 | Min Cost Climbing Stairs | Easy | None |
-| 120 | Triangle | Medium | None |
-| 64 | Minimum Path Sum | Medium | None |
-| 322 | Coin Change | Medium | None |
-| 983 | Minimum Cost For Tickets | Medium | None |
-| 279 | Perfect Squares | Medium | None |
-| 300 | Longest Increasing Subsequence | Medium | None |
-| 62 | Climbing Stairs | Easy | None |
-| 70 | Unique Paths | Medium | None |
-| 63 | Unique Paths II | Medium | None |
-| 673 | Number of Longest Increasing Subsequence | Medium | None |
-| 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
-
 # Graph
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
@@ -43,11 +26,27 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 208 | Implement Trie (Prefix Tree) | Medium | Time complexity left |
 | 211 | Add and Search Word | Medium | Time complexity left |
 
- 
+# Dynamic Programming 
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 198 | House Robber | Easy | None |
+| 746 | Min Cost Climbing Stairs | Easy | None |
+| 120 | Triangle | Medium | None |
+| 64 | Minimum Path Sum | Medium | None |
+| 322 | Coin Change | Medium | None |
+| 983 | Minimum Cost For Tickets | Medium | None |
+| 279 | Perfect Squares | Medium | None |
+| 300 | Longest Increasing Subsequence | Medium | None |
+| 62 | Climbing Stairs | Easy | None |
+| 70 | Unique Paths | Medium | None |
+| 63 | Unique Paths II | Medium | None |
+| 673 | Number of Longest Increasing Subsequence | Medium | None |
+| 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
+
 # Tree
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | None |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Done :: How to find index quickly |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | None |
 | 230 | Kth Smallest Element in a BST | Medium | None |
 | 116 | Populating Next Right Pointers in Each Node | Medium | None |
@@ -62,6 +61,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 334 | Increasing Triplet Subsequence | Medium | None |
 | 1305 | All Elements in Two Binary Search Trees | Medium | Merger Logic :: Left-Can return list/or not  |
 | 560 | Subarray Sum Equals K | Medium | None |
+| 11 | Container With Most Water | Medium | Done |
 
 # Sorting and Searching
 | # | Title | Difficulty | Remarks |
@@ -70,9 +70,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 33 | Search in Rotated Sorted Array | Medium | Done |
 | 56 | Merge Intervals | Medium | None |
 | 986 | Interval List Intersections | Medium | Code is Poetry |
-| 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE :: Concept |
+| 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE Concept |
 | 74 | Search a 2D Matrix | Medium | Done |
-
 
 
 # Linked-List
@@ -85,9 +84,10 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 # Heap
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
+| 215 | Kth Largest Element in an Array | Medium | Done :: TradeOff |
 | 1046 | Last Stone Weight | Easy | None |
 | 23 | Merge k Sorted Lists | Hard | None |
-| 621 |  Task Scheduler | Medium | Pre knowledge required for interviews. |
+| 621 | Task Scheduler | Medium | Pre knowledge required for interviews. |
 
 
 # String
