@@ -1,0 +1,14 @@
+All the learings from LeetCode 30 days Challenge during the Quarantine days.
+
+Respective soltions are on my GIT-HUB repository 
+Link :: https://github.com/Chinmayswaroop/LeetCode  In a separate folder 30Day_LeetCode_Challenge_2020
+
+Day 01
+Problem  :: Single Number | Easy
+Learning :: How XOR can be useful that if two elements are similar they 
+            result to zero if differnt than 1 (Truth Table) 
+
+
+Day 02
+Problem  :: 
+Learning ::

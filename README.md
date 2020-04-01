@@ -18,6 +18,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
 | 684 | Redundant Connection | Medium | Time Complexity left Kruskal Algorithm |
 | 79 | Word Search | Medium | Teaches how to move in all directions of an element in a matrix. |
+| 329 | Longest Increasing Path in a Matrix | Hard | Done |
 
 # Design
 | # | Title | Difficulty | Remarks |
@@ -103,6 +104,9 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 844 | Backspace String Compare | Easy | None |
 | 7 | Reverse Integer | Easy | Math :: Forumula Important :: Overflow condition |
 
+# 30DayChallengeLeetCode_Quarantine-Things
+| # | Title | Difficulty | Remarks |
+| 136 |Single Number | Easy |  Done |
 
 # License
 
