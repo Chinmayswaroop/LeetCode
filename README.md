@@ -104,8 +104,9 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 844 | Backspace String Compare | Easy | None |
 | 7 | Reverse Integer | Easy | Math :: Forumula Important :: Overflow condition |
 
-# 30DayChallengeLeetCode_Quarantine-Things
+# 30 Day Challenge LeetCode Quarantine-Things
 | # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
 | 136 |Single Number | Easy |  Done |
 
 # License
