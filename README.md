@@ -105,10 +105,16 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 7 | Reverse Integer | Easy | Math :: Forumula Important :: Overflow condition |
 
 # 30 Day Challenge LeetCode Quarantine-Things
-| # | Title | Difficulty | Remarks |
-| --- | --- | --- | --- |
-| 136 |Single Number | Easy |  Done |
+| # | Title | Difficulty | Topic | Remarks |
+| --- | --- | --- | --- |--- |
+| 136 | Single Number | Easy |  Math | Done |
+| 202 | Happy Number | Easy | Math | Time Complexity left |
+| 52 |  Maximum Subarray | Easy | DP | Kadanes algorithm |
+| 283 |  Move Zeroes | Easy | Array | Done |
 
+
+
+ Maximum Subarray
 # License
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
