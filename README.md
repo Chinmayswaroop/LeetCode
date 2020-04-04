@@ -90,12 +90,17 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 23 | Merge k Sorted Lists | Hard | None |
 | 621 | Task Scheduler | Medium | Pre knowledge required for interviews. |
 
-
 # String
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 443 | String Compression | Easy | How the Last index condition is included. |
 | 415 | Add Strings | Easy | Better code writing. Use of ascii values |
+| 1400 | Construct K Palindrome Strings | Medium | Good concept of Palindrome |
+
+# Stack
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 443 | Asteroid Collision | Medium | Break down the code in smaller cases |
 
 # Others
 | # | Title | Difficulty | Remarks |
@@ -109,7 +114,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- | --- |--- |
 | 136 | Single Number | Easy |  Math | Done |
 | 202 | Happy Number | Easy | Math | Time Complexity left |
-| 52 |  Maximum Subarray | Easy | DP | Kadanes algorithm |
+| 52 |  Maximum Subarray | Easy | DP | Kadane's algorithm |
 | 283 |  Move Zeroes | Easy | Array | Done |
 
 
