@@ -26,6 +26,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 146 | LRU Cache | Medium | Important for interviews |
 | 208 | Implement Trie (Prefix Tree) | Medium | Time complexity left |
 | 211 | Add and Search Word | Medium | Time complexity left |
+| 380 | Insert Delete GetRandom O(1) | Medium | Complexity left |
 
 # Dynamic Programming 
 | # | Title | Difficulty | Remarks |
@@ -43,6 +44,17 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 63 | Unique Paths II | Medium | None |
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
 | 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
+
+# Back Tracking 
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 78 | Subsets | Medium | Base Concept Problem |
+| 90 | Subsets II | Medium | Base Concept Problem |
+| 46 | Permutations | Medium | Base Concept Problem |
+| 47 | Permutations II | Medium | Base Concept Problem |
+| 77 | Combinations | Medium | Check if a better approach |
+| 17 | Letter Combinations of a Phone Number | Medium | None |
+| 39 | Combination Sum | Medium | None |
 
 # Tree
 | # | Title | Difficulty | Remarks |
@@ -63,6 +75,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 1305 | All Elements in Two Binary Search Trees | Medium | Merger Logic :: Left-Can return list/or not  |
 | 560 | Subarray Sum Equals K | Medium | None |
 | 11 | Container With Most Water | Medium | Done |
+| 88 | Merge Sorted Array | Easy | Done :: No Extra space, trick |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Done :: Trick |
 
 # Sorting and Searching
 | # | Title | Difficulty | Remarks |
@@ -73,7 +87,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 986 | Interval List Intersections | Medium | Code is Poetry |
 | 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE Concept |
 | 74 | Search a 2D Matrix | Medium | Done |
-
 
 # Linked-List
 | # | Title | Difficulty | Remarks |
@@ -116,6 +129,12 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 202 | Happy Number | Easy | Math | Time Complexity left |
 | 52 |  Maximum Subarray | Easy | DP | Kadane's algorithm |
 | 283 |  Move Zeroes | Easy | Array | Done |
+| 122 |  Best Time to Buy and Sell Stock II | Easy | Array | Done |
+| 49 |  Group Anagrams | Medium | HashMap/String | Time Complexity left  |
+| NA |  Counting Elements | Easy | HashMap | Done |
+| 876 | Middle of the Linked List | Easy | 2 pointes | Base Condition Remember :: Time Complexity left  |
+| 844 |  Backspace String Compare | Easy | 2 pointers | Done :: Glance |
+| 155 |  Min Stack | Easy | Design | Done |
 
 
 
