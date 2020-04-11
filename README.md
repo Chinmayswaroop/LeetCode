@@ -94,6 +94,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 160 | Intersection of Two Linked Lists| Easy | None |
 | 142 | Linked List Cycle II | Medium | None |
 | 287 | Find the Duplicate Number | Medium | None |
+| 138 | Copy List with Random Pointerr | Medium | Done :: Go through :: See O(1) space solution |
 
 # Heap
 | # | Title | Difficulty | Remarks |
@@ -135,10 +136,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 876 | Middle of the Linked List | Easy | 2 pointes | Base Condition Remember :: Time Complexity left  |
 | 844 |  Backspace String Compare | Easy | 2 pointers | Done :: Glance |
 | 155 |  Min Stack | Easy | Design | Done |
+| 543 | Diameter of Binary Tree | Easy | Done |
 
-
-
- Maximum Subarray
 # License
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
