@@ -107,6 +107,13 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 # String
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
+| 344 | Reverse String | Easy | Done |
+| 387 | First Unique Character in a String | Easy | Done |
+| 242 | Valid Anagram | Easy | Done |
+| 125 | Valid Palindrome | Easy | Done :: Regex in java |
+| 28 | Implement strStr() | Easy | Done :: Break into window size :: Complexity left |
+| 38 | Count and Say | Easy | Done :: Complexity left |
+| 14 | Longest Common Prefix | Easy | Done :: Complexity left |
 | 443 | String Compression | Easy | How the Last index condition is included. |
 | 415 | Add Strings | Easy | Better code writing. Use of ascii values |
 | 1400 | Construct K Palindrome Strings | Medium | Good concept of Palindrome |
@@ -121,7 +128,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- | --- |
 | 463 | Island Perimeter | Easy |  None |
 | 844 | Backspace String Compare | Easy | None |
-| 7 | Reverse Integer | Easy | Math :: Forumula Important :: Overflow condition |
+| 7 | Reverse Integer | Easy | Done :: Overflow condition |
 
 # 30 Day Challenge LeetCode Quarantine-Things
 | # | Title | Difficulty | Topic | Remarks |
