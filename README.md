@@ -9,7 +9,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 130 | Surrounded Regions | Medium | None |
 | 743 | Network Delay Time | Medium | Done :: Dijkstra implementaion with min space utilisation|
 | 787 | Cheapest Flights Within K Stops | Medium | Time Complexity left |
-| 909 | Snakes and Ladders | Medium | Important |
+| 909 | Snakes and Ladders | Medium | Done :: Important |
 | 785 | Is Graph Bipartite? | Medium | Time Complexity left |
 | 886 | Possible Bipartition | Medium | Time Complexity left |
 | 207 | Course Schedule | Medium | Done :: Reduced to cycle detection in graph |

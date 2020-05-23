@@ -37,8 +37,8 @@ It can be shown that you need at least 4 moves to reach the N*N-th square, so th
 /*
 Analysis ::
 N = where N is the no of the elements in the matrix that is N^2
-Time Complexity :: O(N) 
-Space Complexity :: O(N)
+Time Complexity :: O(N^2 + 6* N^2) == O(N^2)
+Space Complexity :: O(N^2)
 */
 
 class Qentry {
