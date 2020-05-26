@@ -73,8 +73,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 238 | Product of Array Except Self | Medium | None |
 | 334 | Increasing Triplet Subsequence | Medium | None |
 | 1305 | All Elements in Two Binary Search Trees | Medium | Merger Logic :: Left-Can return list/or not  |
-| 525 | Contiguous Array | Medium | Done :: Trick |
-| 560 | Subarray Sum Equals K | Medium | Logic Same as 525 |
+| 525 | Contiguous Array | Medium | Done |
+| 560 | Subarray Sum Equals K | Medium | Application of logic same as 525 |
 | 11 | Container With Most Water | Medium | Done |
 | 88 | Merge Sorted Array | Easy | Done :: No Extra space, trick |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Done :: Trick |
@@ -124,12 +124,21 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | --- | --- | --- | --- |
 | 443 | Asteroid Collision | Medium | Break down the code in smaller cases |
 
+# Math
+| # | Title | Difficulty | Remarks |
+| --- | --- | --- | --- |
+| 50 | Pow(x, n) | Medium | Done :: Logic |
+| 172 | Factorial Trailing Zeroes | Easy | Done :: Logic |
+| 171 | Excel Sheet Column Number | Easy | Done |
+
+
 # Others
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 463 | Island Perimeter | Easy |  None |
 | 844 | Backspace String Compare | Easy | None |
 | 7 | Reverse Integer | Easy | Done :: Overflow condition |
+
 
 # 30 Day Challenge LeetCode Quarantine-Things
 | # | Title | Difficulty | Topic | Remarks |
