@@ -4,7 +4,10 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 # Graph
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
-| 200 | Number of Islands | Medium | None |
+| 200 | Number of Islands | Medium | Done |
+| 79  | Word Search | Medium | Teaches how to move in all directions of an element in a matrix. |
+| 329 | Longest Increasing Path in a Matrix | Hard | Done |
+
 | 695 | Max Area of Island | Medium | None |
 | 130 | Surrounded Regions | Medium | None |
 | 743 | Network Delay Time | Medium | Done :: Dijkstra implementaion with min space utilisation|
@@ -17,8 +20,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 127 | Word Ladder | Medium | Revise at the time of interview. Complete BFS application |
 | 547 | Friend Circles | Medium | DFS implemenation approach is good.Time Complexity left |
 | 684 | Redundant Connection | Medium | Time Complexity left Kruskal Algorithm |
-| 79 | Word Search | Medium | Teaches how to move in all directions of an element in a matrix. |
-| 329 | Longest Increasing Path in a Matrix | Hard | Done |
 
 # Design
 | # | Title | Difficulty | Remarks |
@@ -73,7 +74,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 238 | Product of Array Except Self | Medium | None |
 | 334 | Increasing Triplet Subsequence | Medium | None |
 | 1305 | All Elements in Two Binary Search Trees | Medium | Merger Logic :: Left-Can return list/or not  |
-| 560 | Subarray Sum Equals K | Medium | None |
+| 525 | Contiguous Array | Medium | Done :: Trick |
+| 560 | Subarray Sum Equals K | Medium | Logic Same as 525 |
 | 11 | Container With Most Water | Medium | Done |
 | 88 | Merge Sorted Array | Easy | Done :: No Extra space, trick |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Done :: Trick |

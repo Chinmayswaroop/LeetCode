@@ -25,9 +25,40 @@ Output: 3
 
 /*
 Analysis ::
-Time Complexity :: O(n^2)
-Space Complexity :: O(1)
+Time Complexity :: O(4*N*M) as each node has 4 edges apprximately and there is no intialization step as in usual dfs.
+                   O(N*M)
+Space Complexity :: in worst case all the vertices are in the stack O(N*M)
 */
+
+
+class Solution {
+    int [][] directions = { {-1,0},{1,0},{0,-1},{0,1}};
+    
+    public void dfs(int row, int col, char [][] grid){
+                  
+        grid[row][col]='0';
+        for(int [] dir : directions){
+            int x = row + dir[0];
+            int y = col + dir[1];
+            if(x<0 || x>=grid.length || y<0 || y>=grid[0].length || grid[x][y] =='0')
+                continue;
+            dfs(x,y,grid);
+        }       
+    }
+    
+    public int numIslands(char[][] grid) {
+        int islands =0;
+        for(int row=0;row<grid.length;row++){
+            for(int col=0;col<grid[0].length;col++){
+                if(grid[row][col]=='1'){
+                    islands++;
+                    dfs(row,col,grid);
+                }
+            }
+        }
+    return islands;
+    }
+}
 
 class Solution {
     public void dfs(int row, int col, char [][] grid){
