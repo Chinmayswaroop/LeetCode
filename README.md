@@ -7,7 +7,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 200 | Number of Islands | Medium | Done |
 | 79  | Word Search | Medium | Teaches how to move in all directions of an element in a matrix. |
 | 329 | Longest Increasing Path in a Matrix | Hard | Done |
-
 | 695 | Max Area of Island | Medium | None |
 | 130 | Surrounded Regions | Medium | None |
 | 743 | Network Delay Time | Medium | Done :: Dijkstra implementaion with min space utilisation|
