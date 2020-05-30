@@ -123,6 +123,10 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 443 | Asteroid Collision | Medium | Break down the code in smaller cases |
+| 496 | Next Greater Element I | Medium | Generic implementation of next greater element |
+| 1019 | Next Greater Node In Linked List | Medium | Done |
+| 503 | Next Greater Element II | Medium | Done |
+| 789 | Daily Temperatures | Medium | Done |
 
 # Math
 | # | Title | Difficulty | Remarks |
