@@ -44,6 +44,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 63 | Unique Paths II | Medium | None |
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
 | 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
+| 72 | Edit Distance | Hard | Done :: Classic |
+
 
 # Back Tracking 
 | # | Title | Difficulty | Remarks |
@@ -78,6 +80,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 11 | Container With Most Water | Medium | Done |
 | 88 | Merge Sorted Array | Easy | Done :: No Extra space, trick |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Done :: Trick |
+| 42 | Trapping Rain Water | Hard | Done :: Classic |
 
 # Sorting and Searching
 | # | Title | Difficulty | Remarks |
@@ -127,6 +130,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 1019 | Next Greater Node In Linked List | Medium | Done |
 | 503 | Next Greater Element II | Medium | Done |
 | 789 | Daily Temperatures | Medium | Done |
+| 150 | Evaluate Reverse Polish Notation | Medium | Done |
 
 # Math
 | # | Title | Difficulty | Remarks |
@@ -141,7 +145,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 463 | Island Perimeter | Easy |  None |
 | 844 | Backspace String Compare | Easy | None |
 | 7 | Reverse Integer | Easy | Done :: Overflow condition |
-
 
 # 30 Day Challenge LeetCode Quarantine-Things
 | # | Title | Difficulty | Topic | Remarks |
