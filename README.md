@@ -85,12 +85,15 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 # Sorting and Searching
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
-| 34 | Find First and Last Position of Element in Sorted Array | Medium | Redo |
+| 34 | Seach for a Range in an array | Medium | Done |
 | 33 | Search in Rotated Sorted Array | Medium | Done |
+| 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE Concept |
 | 56 | Merge Intervals | Medium | None |
 | 986 | Interval List Intersections | Medium | Code is Poetry |
-| 162 | Find Peak Element | Medium | Done :: Left neighbour causes TLE Concept |
-| 74 | Search a 2D Matrix | Medium | Done |
+| 74 | Search a 2D Matrix | Medium | Time Complexity left |
+| 240 | Search a 2D Matrix II | Medium | Done :: Base concept problem |
+| 35 | Search Insert Position | Easy | Done |
+| 528 | Random Pick with Weight | Medium | Done :: IMP |
 
 # Linked-List
 | # | Title | Difficulty | Remarks |
