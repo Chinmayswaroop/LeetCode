@@ -51,6 +51,27 @@ Space Complexity :: O(n)
  *     }
  * }
  */
+
+public class Solution {
+    public ListNode detectCycle(ListNode head) {
+        ListNode slow, fast;
+        slow=fast=head;
+         while(slow!=null && fast!=null && fast.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                while(head!=slow){
+                   head=head.next;
+                   slow=slow.next;
+               }
+              return head;
+            }
+        }
+        
+        return null;
+    }
+}
+/* when i wrote the code for the first time. */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         if(head == null || head.next==null)

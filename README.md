@@ -96,9 +96,14 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
 | 160 | Intersection of Two Linked Lists| Easy | None |
-| 142 | Linked List Cycle II | Medium | None |
+| 142 | Linked List Cycle II | Medium | Complexity Left |
 | 287 | Find the Duplicate Number | Medium | None |
-| 138 | Copy List with Random Pointerr | Medium | Done :: Go through :: See O(1) space solution |
+| 141 | Linked List Cycle | Easy | Done |
+| 138 | Copy List with Random Pointer | Medium | Done :: Go through :: See O(1) space solution |
+| 237 | Delete Node in a Linked List | Easy | Done :: Trick |
+| 206 | Reverse Linked List | Easy | Done :: Dummy Node |
+| 21  | Merge Two Sorted Lists | Easy | Done |
+| 876 | Middle of the Linked List | Easy | Done |
 
 # Heap
 | # | Title | Difficulty | Remarks |
@@ -156,7 +161,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 122 |  Best Time to Buy and Sell Stock II | Easy | Array | Done |
 | 49 |  Group Anagrams | Medium | HashMap/String | Time Complexity left  |
 | NA |  Counting Elements | Easy | HashMap | Done |
-| 876 | Middle of the Linked List | Easy | 2 pointes | Base Condition Remember :: Time Complexity left  |
 | 844 |  Backspace String Compare | Easy | 2 pointers | Done :: Glance |
 | 155 |  Min Stack | Easy | Design | Done |
 | 543 | Diameter of Binary Tree | Easy | Done |
