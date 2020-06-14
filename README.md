@@ -45,6 +45,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 673 | Number of Longest Increasing Subsequence | Medium | None |
 | 337 | House Robber III | Medium | Different type of DP(Recursion imp.) |
 | 72 | Edit Distance | Hard | Done :: Classic |
+| 368 | Largest Divisible Subset | Medium | Done |
 
 
 # Back Tracking 
@@ -68,6 +69,20 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 111 | Minimum Depth of Binary Tree | Easy | None |
 | 112 | Path Sum | Easy | BFS and DFS |
 | 617 | Merge Two Binary Trees | Easy | Time Complexity left |
+| 235 | LCA of a BST | Easy | Done |
+| 236 | LCA of a BT | Medium | Done :: Imp |
+| 101 | Symmetric Tree | Easy | Done :: Imp |
+| 98 | Validate Binary Search Tree | Medium | Done |
+| 104 | Maximum Depth of Binary Tree | Easy | Done |
+
+|  |  | Medium | Done |
+|  |  | Medium | Done |
+|  |  | Medium | Done |
+|  |  | Medium | Done |
+|  |  | Medium | Done |
+
+
+
 
 # Array
 | # | Title | Difficulty | Remarks |
@@ -107,6 +122,7 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 206 | Reverse Linked List | Easy | Done :: Dummy Node |
 | 21  | Merge Two Sorted Lists | Easy | Done |
 | 876 | Middle of the Linked List | Easy | Done |
+| 2 | Add Two Numbers | Medium | Done |
 
 # Heap
 | # | Title | Difficulty | Remarks |
