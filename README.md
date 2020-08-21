@@ -47,7 +47,6 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 72 | Edit Distance | Hard | Done :: Classic |
 | 368 | Largest Divisible Subset | Medium | Done |
 
-
 # Back Tracking 
 | # | Title | Difficulty | Remarks |
 | --- | --- | --- | --- |
@@ -74,15 +73,8 @@ Contains all my Leetcode solutions with Problem statement, their Solutions, Time
 | 101 | Symmetric Tree | Easy | Done :: Imp |
 | 98 | Validate Binary Search Tree | Medium | Done |
 | 104 | Maximum Depth of Binary Tree | Easy | Done |
-
-|  |  | Medium | Done |
-|  |  | Medium | Done |
-|  |  | Medium | Done |
-|  |  | Medium | Done |
-|  |  | Medium | Done |
-
-
-
+| 108 | Convert Sorted Array to BST | Easy | Done :: Imp |
+| 102 | Binary Tree Level Order Traversal | Medium | Done |
 
 # Array
 | # | Title | Difficulty | Remarks |
